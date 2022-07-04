@@ -1,1 +1,1 @@
-# airbnb-clone-react-project
+# airbnb-clone-react-project by using props
